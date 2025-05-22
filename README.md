@@ -41,15 +41,27 @@ Categorias com maior incidência de atrasos:
 
 ---
 
-## 📊 Faturamento por Mês do Ano
+## 📊 Performance Logística
 
 ![Faturamento por Mês do Ano](./images/logistica.png)
 
-Visualização do faturamento ao longo dos meses, destacando sazonalidades e tendências de queda ou crescimento.
+Este painel apresenta uma visão completa da performance logística do e-commerce, incluindo:
 
----
+🔸 Indicadores principais:
+Tempo médio de entrega.
 
-## 📝 Principais Insights
+- Quantidade de pedidos atrasados.
+
+- Principais estados com maiores números de pedidos atrasados.
+
+- Porcentagem de entrega atrasada por categoria.
+
+🔸 Análises relevantes:
+Identificação dos estados brasileiros com maior incidência de atrasos.
+
+Categorização dos produtos conforme o percentual de atrasos, possibilitando ações corretivas por segmento.
+
+Avaliação do tempo médio de entrega, essencial para benchmarking logístico.
 
 - Estados de **SP** e **BA** concentram os maiores faturamentos.
 - Categorias relacionadas a **telefonia** e **utilidades domésticas** lideram em percentual de entregas atrasadas.

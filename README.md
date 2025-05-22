@@ -17,7 +17,7 @@ Este projeto visa realizar uma análise de performance logística utilizando um 
 
 ## 📊 Dashboard: Desempenho Comercial e Receita
 
-![Desempenho Comercial e Receita](./caminho/para/imagem1.png)
+![Desempenho Comercial e Receita](./images/comercial.png)
 
 ### 🔸 Indicadores principais:
 
@@ -43,7 +43,7 @@ Categorias com maior incidência de atrasos:
 
 ## 📊 Faturamento por Mês do Ano
 
-![Faturamento por Mês do Ano](./caminho/para/imagem2.png)
+![Faturamento por Mês do Ano](./images/logistica.png)
 
 Visualização do faturamento ao longo dos meses, destacando sazonalidades e tendências de queda ou crescimento.
 

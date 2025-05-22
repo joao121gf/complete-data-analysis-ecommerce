@@ -6,6 +6,26 @@ Este projeto visa realizar uma análise de performance logística utilizando um 
 
 ---
 
+## 📂 Estrutura do Repositório
+
+```text
+.
+├── data
+│   ├── filtred        # Dados CSVs filtrados e tratados.
+│   ├── metrics        # Métricas geradas a partir dos dados filtrados (ex.: melhores vendedores por estado).
+│   └── raw            # Arquivos CSV originais do dataset.
+│
+├── images             # Imagens e gráficos gerados para visualizações.
+│
+├── notebooks
+│   ├── extract        # Notebooks para limpeza e análise exploratória dos dados.
+│   └── transformation # Notebooks para transformação e geração das métricas.
+│
+├── LICENSE
+├── README.md
+└── .gitattributes
+
+
 ## 🎯 Objetivos
 
 - Analisar o tempo médio de entrega.
@@ -55,7 +75,7 @@ Tempo médio de entrega.
 - Principais estados com maiores números de pedidos atrasados.
 
 - Porcentagem de entrega atrasada por categoria.
-- 
+
 ### 🔸 Análises relevantes:
 Identificação dos estados brasileiros com maior incidência de atrasos.
 

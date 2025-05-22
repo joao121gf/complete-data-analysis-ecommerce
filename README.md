@@ -47,7 +47,7 @@ Categorias com maior incidência de atrasos:
 
 Este painel apresenta uma visão completa da performance logística do e-commerce, incluindo:
 
-🔸 Indicadores principais:
+### 🔸 Indicadores principais:
 Tempo médio de entrega.
 
 - Quantidade de pedidos atrasados.
@@ -55,14 +55,15 @@ Tempo médio de entrega.
 - Principais estados com maiores números de pedidos atrasados.
 
 - Porcentagem de entrega atrasada por categoria.
-
-🔸 Análises relevantes:
+- 
+### 🔸 Análises relevantes:
 Identificação dos estados brasileiros com maior incidência de atrasos.
 
 Categorização dos produtos conforme o percentual de atrasos, possibilitando ações corretivas por segmento.
 
 Avaliação do tempo médio de entrega, essencial para benchmarking logístico.
 
+### 🔸 Pontos importantes
 - Estados de **SP** e **BA** concentram os maiores faturamentos.
 - Categorias relacionadas a **telefonia** e **utilidades domésticas** lideram em percentual de entregas atrasadas.
 - Faturamento apresenta tendência de queda nos últimos meses do ano.
